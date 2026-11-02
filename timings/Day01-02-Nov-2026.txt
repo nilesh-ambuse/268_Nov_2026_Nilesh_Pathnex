@@ -2,3 +2,4 @@
 2 hours - crate AWS account and create first EC2 instances
 1 hours - practice basic linux command run
 30 min - Evening class attend.
+1 hour - IPs Ranges.
