@@ -1,0 +1,8 @@
+# 
+1. English Reading and listening practice - 30 min 
+2. ELK youtube video watch  - 3 hr
+3. comment on youtube video is done
+4. joined the eveing session - 30 min
+5. practice code and pushed on github - 1 hr
+6. create a dashboard on kibana - 1.30 hr
+ 
