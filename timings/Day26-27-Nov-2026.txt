@@ -1,0 +1,10 @@
+#
+1. Reading book - 30 min 
+2. practice docker implementation practical lab  - 3.30 hr
+3. watch youtube video SRE - 2 hr
+4. comment 
+5. video practice - 1 hr
+6. Evening session - 30 min 
+7. Code pushed on github - 1 hr
+8. Introduction video - 30 min
+
